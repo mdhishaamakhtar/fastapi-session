@@ -25,8 +25,17 @@ Contributions are welcome.
 - Python 3.7+
 - Pip
 - Other listed in requirements.txt
+## Documentation
 
-## Running
+This project uses automated tools to generate and maintain up-to-date documentation. The documentation is generated using AI, ensuring it reflects the latest changes in the codebase. 
+
+To generate the documentation, run the following command:
+
+```bash
+# Command to generate documentation
+```
+
+The generated documentation will be available in the `docs/` directory.
 
 - Clone the repo using
 
